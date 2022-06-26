@@ -11,4 +11,5 @@
 Forgotten vid description to be added just here.
 ---
 ## Links
+[Vids](Vids.md)
 [Link](About.md)
