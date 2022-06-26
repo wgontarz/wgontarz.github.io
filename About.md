@@ -1,10 +1,10 @@
 ### About 
-
-Additional About section 
-
-
-/* I would add some more content to this file : JO */
+Additional About section that is corrected. 
+Hotfix test :) 
 
 
+
+
+--- 
 ### Links
 [Main Page](index.md)
